@@ -1,7 +1,4 @@
-# onlineshop
-``
-This is a default web application for OnlineShop. （ネットショッピングサイト）
-``
+# test
 
 ## Project setup
 ```
